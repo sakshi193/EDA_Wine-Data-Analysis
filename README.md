@@ -71,16 +71,16 @@ EDA_Wine data analysis
              # Two types of categorical values : ordinal and nominal
              # Ordinal: Category encoding/Mapping values
              # Nominal: One-hot encoding
-                # get_dummies()
-                # replace()
+                ## get_dummies()
+                ## replace()
             # Conclusion             
 
 ## Part III) E) Handling Numerical Values
              # Check whether data is symmetrical or not
              # Plot histogram
              # Plot distribution plot
-                     # If your data is not skewed and symmetrical, apply StandardScaler
-                     # If your data is skewed and assymmetrical, apply MinMaxScaler
+                     ## If your data is not skewed and symmetrical, apply StandardScaler
+                     ## If your data is skewed and assymmetrical, apply MinMaxScaler
             # Confirm the distribution patter by plotting histogram and distribution plot again (2 different columns)
             # Conclusion
             
